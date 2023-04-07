@@ -1,43 +1,64 @@
 # css-demo-site
 Name
-    Refactoring Codebase for Web Accessibility 
-
+<br>
+Refactoring Codebase for Web Accessibility 
+<br>
+<br>
 Description
-    My project's codebase has been refactored with accessibility standards. This will optimize search engine results. 
-
-    The project follows a logical structure for semantic HTML elements. 
-
-    Icon and image elements have accessible alt attributes.
-
-    Heading attributes fall in sequential order. 
-
-    There is a concise and descriptive title when you view the title element. 
-
-    All links in the head work. 
-
+<br>
+My project's codebase has been refactored with accessibility standards. This will optimize search engine results.
+<br>
+The project follows a logical structure for semantic HTML elements. 
+<br>
+Icon and image elements have accessible alt attributes.
+<br>
+Heading attributes fall in sequential order. 
+<br>
+There is a concise and descriptive title when you view the title element. 
+<br>
+All links in the head work. 
+<br>
+<br>
 Badges
-    
+<br>
+<br>
 Visuals
-    Project Webpage for Refactored Code
-    ![Alt text](https://github.com/eliasjrivera/css-demo-site/blob/main/02-Challenge/Assets/01-html-css-git-homework-demo.png?raw%3Dtrue)
-
+<br>
+<br>
+Project Webpage for Refactored Code
+<br>
+![Alt text](https://github.com/eliasjrivera/css-demo-site/blob/main/02-Challenge/Assets/01-html-css-git-homework-demo.png?raw%3Dtrue)
+<br>
+<br>
 Installation
-
+<br>
+<br>
 Usage
-    Refactored codebase location is called index.html file within the Develop folder which is inside 02-Challenge folder. 
-
+<br>
+Refactored codebase location is called index.html file within the Develop folder which is inside 02-Challenge folder. 
+<br>
+<br>
 Support
-    Elias Rivera
-    eliasjohnrivera@gmail.com
-
+<br>
+Elias Rivera
+eliasjohnrivera@gmail.com
+<br>
+<br>
 Roadmap
-
+<br>
+<br>
 Contributing
-
+<br>
+<br>
 Authors and Acknowledgment 
-
+<br>
+Elias Rivera
+<br>
+<br>
 License
-
-Project Status
-    Project is finished. 
-    https://github.com/eliasjrivera/css-demo-site
+<br>
+<br>
+Project Status 
+<br>
+Project is finished. 
+https://github.com/eliasjrivera/css-demo-site
