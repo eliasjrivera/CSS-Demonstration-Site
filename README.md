@@ -1,43 +1,68 @@
-# css-demo-site
-Name
-    Refactoring Codebase for Web Accessibility 
+# CSS-Demonstration-Site
 
-Description
-    My project's codebase has been refactored with accessibility standards. This will optimize search engine results. 
+## Table of Contents
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Visuals](#visuals)
+- [Project Repo](#project-repo)
+- [Walkthrough Video](#walkthrough-video)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Support](#support)
+- [Contributing](#contributing)
+- [Authors and Acknowledgement](#authors-and-acknowledgement)
+- [Project Status](#project-status)
 
-    The project follows a logical structure for semantic HTML elements. 
+## Description
+Refactoring Codebase for Web Accessibility 
+  
+### User Story
+  
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
 
-    Icon and image elements have accessible alt attributes.
+### Acceptance Criteria
 
-    Heading attributes fall in sequential order. 
+```
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+```
 
-    There is a concise and descriptive title when you view the title element. 
+## Project Repo
+[Elias Rivera GitHub Repo](https://github.com/eliasjrivera/CSS-Demonstration-Site)
 
-    All links in the head work. 
+## Visuals
+![Project Webpage for Refactored Code](./assets/images/CSS-Demo.png)
 
-Badges
-    
-Visuals
-    Project Webpage for Refactored Code
-    ![Alt text](https://github.com/eliasjrivera/css-demo-site/blob/main/02-Challenge/Assets/01-html-css-git-homework-demo.png?raw%3Dtrue)
+## Installation
+`git clone git@github.com:eliasjrivera/CSS-Demonstration-Site.git`
 
-Installation
+##
+`Open in Google Chrome`
 
-Usage
-    Refactored codebase location is called index.html file within the Develop folder which is inside 02-Challenge folder. 
+## Support
+Elias Rivera
 
-Support
-    Elias Rivera
-    eliasjohnrivera@gmail.com
+eliasjohnrivera@gmail.com
 
-Roadmap
+## Contributing
+Contributors should read the installation section.
 
-Contributing
+## Authors and Acknowledgement
+Elias Rivera
 
-Authors and Acknowledgment 
-
-License
-
-Project Status
-    Project is finished. 
-    https://github.com/eliasjrivera/css-demo-site
+## Project Status
+Project is finished
