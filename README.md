@@ -50,7 +50,6 @@ THEN I find a concise, descriptive title
 ## Installation
 `git clone git@github.com:eliasjrivera/CSS-Demonstration-Site.git`
 
-##
 `Open in Google Chrome`
 
 ## Support
@@ -59,7 +58,7 @@ Elias Rivera
 eliasjohnrivera@gmail.com
 
 ## Contributing
-Contributors should read the installation section.
+Contributors should read the installation section
 
 ## Authors and Acknowledgement
 Elias Rivera
